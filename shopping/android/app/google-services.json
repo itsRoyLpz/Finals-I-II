@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227141255557",
+    "project_id": "databaseexterna",
+    "storage_bucket": "databaseexterna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227141255557:android:63fe68ebfbd633a09ec4ec",
+        "android_client_info": {
+          "package_name": "com.example.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227141255557-vup3o6i2b27thieqo68rds365r29cbeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCisvqiGQ2Irdff3tji4FMwHHGquBKk0QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227141255557-vup3o6i2b27thieqo68rds365r29cbeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
